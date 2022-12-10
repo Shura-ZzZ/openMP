@@ -1,0 +1,4 @@
+﻿  ConsoleMatrix.cpp
+D:\Диплом\ConsoleMatrix\ConsoleMatrix\ConsoleMatrix.cpp(20,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Диплом\ConsoleMatrix\ConsoleMatrix\ConsoleMatrix.cpp(19): warning C4101: i: неиспользованная локальная переменная
+  ConsoleMatrix.vcxproj -> D:\Диплом\ConsoleMatrix\x64\Debug\ConsoleMatrix.exe
